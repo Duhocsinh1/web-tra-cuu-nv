@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Đây là file thông tin nhân vật. Chỗ này để tên",
+      "rarity": "Độ hiếm",
+      "role": "Vai trò",
+      "roll_advice": "Gợi ý",
+      "info": "Đây là thông tin. Có thể xem ví dụ bên dưới. Nhớ sử dụng https://jsonlint.com/ để check lỗi"
+    },
+    {
+      "name": "Ako (Dress)",
+      "rarity": "Giới hạn",
+      "role": "Hỗ trợ",
+      "roll_advice": "Bắt buộc phải quay/Bắt buộc phải quay/Nhận 100 vé miễn phí. Hỗ trợ cho mọi raid không có giáp phản đòn.",
+      "info": "Ako (Lễ hội) là phiên bản giới hạn của Ako, chuyên dụng cho các Raid không có giáp phản đòn. Cô ấy cung cấp khả năng hỗ trợ tuyệt vời."
+    }
+]
